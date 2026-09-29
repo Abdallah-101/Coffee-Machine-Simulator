@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CoffeeMachineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-09-29T12:37:29.452Z" hostname="HP-VICTUS" time="0.068">
+  <properties/>
+  <testcase name="start" classname="CoffeeMachineTest" time="0.063"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Starting to make a coffee
+Grinding coffee beans
+Boiling water
+Mixing boiled water with crushed coffee beans
+Pouring coffee into the cup
+Pouring some milk into the cup
+Coffee is ready!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

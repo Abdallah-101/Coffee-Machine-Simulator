@@ -1,0 +1,13 @@
+type: edu
+files:
+  - name: src/machine/CoffeeMachine.java
+    visible: true
+    learner_created: false
+  - name: test/CoffeeMachineTest.java
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/33/stages/175/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 29 Sep 2026 12:37:29 UTC"
+record: -1
